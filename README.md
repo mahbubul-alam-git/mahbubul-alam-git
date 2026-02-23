@@ -15,7 +15,7 @@ Here is my roadmap and current progress. I believe in public learning and buildi
 
 | Phase | Focus Area | Status | Key Skills / Tools |
 | :--- | :--- | :---: | :--- |
-| **Phase 1: The Data Specialist** | Data Manipulation & SQL | ⏳ **In Progress** | `Python`, `NumPy`, `Pandas` (Done) <br> `SQL`, `Matplotlib` (Learning) |
+| **Phase 1: The Data Specialist** | Data Manipulation & SQL | ⏳ **In Progress** | `Python`, `NumPy`, `Pandas` (Done) <br> `Matplotlib`, `SQL` (Learning) |
 | **Phase 2: The ML Modeler** | Predictive Algorithms & Math | 🔒 **Upcoming** | `Scikit-Learn`, Regression, Decision Trees, Linear Algebra |
 | **Phase 3: The AI Specialist** | Deep Learning & NLP | 🔒 **Upcoming** | `TensorFlow/PyTorch`, Computer Vision, NLP, Hugging Face |
 | **Phase 4: The Deployment Eng.** | MLOps & Cloud | 🔒 **Upcoming** | `Docker`, `FastAPI`, `Streamlit`, AWS/GCP Basics |
