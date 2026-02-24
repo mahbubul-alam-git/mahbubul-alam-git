@@ -15,7 +15,7 @@ Here is my roadmap and current progress. I believe in public learning and buildi
 
 | Phase | Focus Area | Status | Key Skills / Tools |
 | :--- | :--- | :---: | :--- |
-| **Phase 1: The Data Specialist** | Data Manipulation & SQL | ⏳ **In Progress** | `Python`, `NumPy`, `Pandas` (Done) <br> `Matplotlib`, `SQL` (Learning) |
+| **Phase 1: The Data Specialist** | Data Manipulation & SQL | ⏳ **In Progress** | `Python`, `NumPy`, `Pandas` (Done) <br> `Matplotlib`, `Seaborn`, `SQL` (Learning) |
 | **Phase 2: The ML Modeler** | Predictive Algorithms & Math | 🔒 **Upcoming** | `Scikit-Learn`, Regression, Decision Trees, Linear Algebra |
 | **Phase 3: The AI Specialist** | Deep Learning & NLP | 🔒 **Upcoming** | `TensorFlow/PyTorch`, Computer Vision, NLP, Hugging Face |
 | **Phase 4: The Deployment Eng.** | MLOps & Cloud | 🔒 **Upcoming** | `Docker`, `FastAPI`, `Streamlit`, AWS/GCP Basics |
@@ -28,7 +28,6 @@ Here is my roadmap and current progress. I believe in public learning and buildi
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
